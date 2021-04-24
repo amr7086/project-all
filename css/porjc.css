@@ -1,0 +1,9 @@
+body {
+    background-color: darkgrey;
+}
+h1 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
