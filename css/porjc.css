@@ -8,5 +8,5 @@ h1 {
 img {
     width: 400px;
     height: 300px;
-    margin-left: 600px;  
+    margin: 20px auto;
 }
